@@ -1,0 +1,26 @@
+_repo: A-New-Catalogue-of-Vulgar-Errors_41274
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fovargue, Stephen
+    deathdate: 1775
+    gutenberg_agent_id: '41082'
+    url: http://www.gutenberg.org/2009/agents/41082
+description: Intended as a supplement to Sir Thomas Browne's Pseudodoxia epidemica.
+gutenberg_issued: '2012-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AZ'
+- !lcsh 'Common fallacies'
+- !lcsh 'Folklore -- Great Britain'
+title: A New Catalogue of Vulgar Errors
+url: http://www.gutenberg.org/ebooks/41274
